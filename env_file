@@ -1,0 +1,2 @@
+JWT_SECRET="IWillNotTellYouAnySecret"
+LOG_LEVEL=DEBUG
